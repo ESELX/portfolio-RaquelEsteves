@@ -1,0 +1,8 @@
+# Video files ignored
+recriação.mp4
+*.mov
+*.avi
+*.flv
+*.webm
+*.wmv
+*.mkv
